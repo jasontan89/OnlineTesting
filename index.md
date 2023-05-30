@@ -6,7 +6,31 @@ It's has been awhile since I have start picking up coding. Wish to do some simpl
 
 Currently am attending a 6-month Data Analaytic course, will try to upload some notebooks to document the learning process.
 
+Copy some of the formatting of Markdown language for references:
 
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. 
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
 
 
 <!-- You can use the [editor on GitHub](https://github.com/jasontan89/OnlineTesting/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files. 
